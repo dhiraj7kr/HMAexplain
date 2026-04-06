@@ -8,13 +8,12 @@ A structured knowledge repository that explains technical concepts in a simple, 
 
 > Click any topic to explore detailed explanations
 
-* [Flow from Frontend to Backend](./Flow%20from%20Frontend%20to%20Backend.md)
+* [Flow from Frontend to Backend](https://github.com/dhiraj7kr/HMAexplain/blob/main/Flow%20from%20Frontend%20to%20Backend%20.md)
 
 <!-- Add new topics below this line -->
 
 <!-- Example:
-- [API Lifecycle](./API%20Lifecycle.md)
-- [Authentication System](./Authentication%20System.md)
+- [API Lifecycle](https://github.com/dhiraj7kr/HMAexplain/blob/main/API%20Lifecycle.md)
 -->
 
 ---
